@@ -111,8 +111,8 @@ import net.javaguides.springboot.repository.EmployeeRepository;
 
 @CrossOrigin(
 		origins = {
-				"http://localhost:3000",
-				"https://employee-crud-application.netlify.app"
+//				"http://localhost:3000",
+				"https://java-sample-project.netlify.app/"
 		},
 		allowedHeaders = "*",
 		methods = {
